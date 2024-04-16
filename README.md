@@ -3,7 +3,7 @@
 
 
 demo 
-* [to do list 보러가기](https://forcodew.github.io/todolist/index.html)
+* [to do list 보러가기](https://zerotoonepf1.cafe24.com/todolist/index.html)
 
 ## overview
 * 개발 목표: 할 일을 간단하게 기록하고 삭제하는 작업표를 만든다.
